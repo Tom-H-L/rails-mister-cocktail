@@ -1,7 +1,8 @@
 body {
-  background-color: #fff;
+  background-color: pink;
   color: #333;
-  margin: 33px; }
+  margin: 33px;
+  background-image: url('../images/background.jpg'); }
 
 body, p, ol, ul, td {
   font-family: verdana, arial, helvetica, sans-serif;
@@ -9,7 +10,7 @@ body, p, ol, ul, td {
   line-height: 18px; }
 
 pre {
-  background-color: #eee;
+  background-color: blue;
   padding: 10px;
   font-size: 11px; }
 
